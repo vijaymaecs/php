@@ -1,1 +1,99 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@vijaymaecs 
+vijaymaecs
+/
+php
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+php/style.css
+@vijaymaecs
+vijaymaecs Add files via upload
+Latest commit b25fd43 12 minutes ago
+ History
+ 1 contributor
+57 lines (49 sloc)  893 Bytes
+   
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width:80%;
+    margin: 0px auto;
+}
+
+.navbar {
+    width: 100%;
+    height: 75px;
+    background-color: #F66;
+}
+
+.navbar-top {
+    width: 100%;
+    height: 125px;
+    background-color: #F66;
+}
+
+.topbar {
+    width: 100%;
+    height:50px;
+    background-color: #333;
+}
+
+.navbar ul {
+    display: flex;
+    height:75px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-transform: capitalize;
+}
+
+.navbar ul li a {
+    color: #FFF;
+}
+
+.navbar-top ul {
+    display: flex;
+    height:75px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-transform: capitalize;
+}
+
+.navbar-top ul li a {
+    color: #FFF;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
 
